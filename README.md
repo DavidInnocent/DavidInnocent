@@ -57,12 +57,7 @@ I’m passionate about **building reliable, high-performance APIs**, optimizing 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DavidInnocent&show_icons=true&theme=github_dark&count_private=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidInnocent&layout=compact&theme=github_dark" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=DavidInnocent&theme=github-dark-blue&hide_border=true" height="165" />
 </p>
 
 ---
